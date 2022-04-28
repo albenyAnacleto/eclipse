@@ -1,4 +1,4 @@
-package cursoJava;
+package fundamentos;
 
 /**
  * @author anacleto
