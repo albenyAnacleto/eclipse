@@ -47,6 +47,10 @@ public class Fundamentos {
 		System.out.println("i++          | i = " + i + "     |  Adição 1 ao Valor");
 		i--;//subtrai 1 a variável
 		System.out.println("i--          | i = " + i + "     |  Subtrai 1 ao Valor");
+		System.out.println("______________________________________");//desenha uma linha separadora
+		System.out.println("");
+		System.out.println("Testando comit no repositorio do github 1");
+		
 	}
 
 }
